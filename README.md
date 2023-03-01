@@ -1,6 +1,6 @@
 # karbowaEgzamin
 
-##zadanie1
+zadanie1
 
 Użyć funkcji .reduce na poniższej tablicy aby obliczyć średnią arytmetyczną ocen wszystkich uczniów. Wynikiem tej funkcji ma być średnia wszystkich średnich z ocen uzyskanych przez studentów. Ilośc ocen per student może być różna.
 
